@@ -18,7 +18,7 @@ Currently, I serve as the **Vice-Director of Marketing** at the **Pythagoras Clu
 - **English:** Intermediate  
 
 ### 🛠️ Current Projects:  
-- **[Travel Easy](https://www.linkedin.com/company/travel-easy/):** A comprehensive travel application helping users organize their trips with ease, targeting all demographics, including international travelers.  
+- **[Travel Easy](https://www.linkedin.com/company/traveleasy0/):** A comprehensive travel application helping users organize their trips with ease, targeting all demographics, including international travelers.  
 
 ### ✨ Interests:  
 - Exploring the latest trends in **digital marketing**.  
